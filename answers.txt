@@ -1,5 +1,6 @@
-Q1) 
-Q2) 
+Q1) A Project Manager is equivalent to the Product Owner. In an agile organization, the product owner is responsible for prioritizing and overseeing the development team's tasks and making sure the company derives as much value as possible from the team's work.A product owner is responsible for ensuring the success of a project in Scrum.
+Q2)
+
 Q3) Three types of meetings during a sprint schedule are :
 	a) Sprint Planning Meeting
 		1. Determine what to complete in the coming sprint
