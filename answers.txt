@@ -1,1 +1,15 @@
-Changed
+Q1) 
+Q2) 
+Q3) Three types of meetings during a sprint schedule are :
+	a) Sprint Planning Meeting
+		1. Determine what to complete in the coming sprint
+		2. Move stories in sprint scope from backlog to current sprint
+		3.Determine story points and assign stories to team 
+	b) Daily Scrum/Standup Meeting
+		1. Short meeting that happens every day of the sprint
+		2. Usually, 10 mins long
+		3. Team members discuss work completed, work plan for the day and any blockers
+	c) Sprint Retrospective Meeting
+		1. Occurs at the end of the sprint
+		2. Discuss work complete and move incomplete work to backlog
+		3. Close sprint
