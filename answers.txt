@@ -13,3 +13,9 @@ Q3) Three types of meetings during a sprint schedule are :
 		1. Occurs at the end of the sprint
 		2. Discuss work complete and move incomplete work to backlog
 		3. Close sprint
+Q4) Epic: Captures a large body of work that can be broken down into several
+smaller stories
+Story: A software system requirement that is expressed in a few short
+sentences.
+Bug: A Bug in Jira represents an issue or problem in the software that needs to be addressed. It is used to track and manage defects or unexpected behaviors identified during testing or after the software is in production.
+Task: A Task in Jira is a unit of work that needs to be accomplished within a specific time frame. Tasks are often used for activities that are necessary to complete a user story or to address technical debt.
